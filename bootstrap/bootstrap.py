@@ -150,6 +150,9 @@ def main(args):
 
     return 0
 
+def func():
+    pass
+
 
 if '__main__' == __name__:
     sys.exit(main(sys.argv))
