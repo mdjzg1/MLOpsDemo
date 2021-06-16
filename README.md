@@ -1,7 +1,7 @@
 ---
 page_type: sample
 languages:
-- python ~~~
+- python
 products:
 - azure
 - azure-machine-learning-service
